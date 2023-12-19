@@ -36,7 +36,6 @@ public class Main {
             e.printStackTrace();
         }
 
-        //TODO
 
         String token = null;
         boolean foundToken = false; // if a token is found either in args or in the file - even if it's invalid
